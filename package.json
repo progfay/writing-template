@@ -1,0 +1,24 @@
+{
+  "name": "writing-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/progfay/writing-template.git"
+  },
+  "author": "progfay",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/progfay/writing-template/issues"
+  },
+  "homepage": "https://github.com/progfay/writing-template#readme",
+  "description": "",
+  "devDependencies": {
+    "@textlint-ja/textlint-rule-preset-ai-writing": "1.5.0",
+    "textlint": "15.2.0",
+    "textlint-rule-preset-ja-technical-writing": "12.0.2"
+  }
+}
